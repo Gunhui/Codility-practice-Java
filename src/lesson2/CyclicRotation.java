@@ -1,4 +1,4 @@
-package date_2019_01_02;
+package lesson2;
 
 public class CyclicRotation {
 	public int[] solution(int[] A, int K) {

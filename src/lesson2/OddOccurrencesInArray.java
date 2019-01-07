@@ -1,4 +1,4 @@
-package date_2019_01_02;
+package lesson2;
 
 public class OddOccurrencesInArray {
 	public int solution(int [] A) {

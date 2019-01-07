@@ -1,4 +1,4 @@
-package date_2019_01_02;
+package lesson3;
 
 import java.util.Arrays;
 

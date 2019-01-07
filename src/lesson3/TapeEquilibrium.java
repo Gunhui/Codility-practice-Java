@@ -1,4 +1,4 @@
-package date_2019_01_02;
+package lesson3;
 
 public class TapeEquilibrium {
 	public int solution(int [] A) {
