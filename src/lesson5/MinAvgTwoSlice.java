@@ -23,7 +23,6 @@ public class MinAvgTwoSlice {
 				count++;
 			}
 			avg = sum/(A.length-i-1);
-
 		}
 		return result;
 	}
